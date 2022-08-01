@@ -8,4 +8,7 @@
 
 int main(void) {
   
+  std::cout << "MD5" <<std::endl;
+  
+  
 }
